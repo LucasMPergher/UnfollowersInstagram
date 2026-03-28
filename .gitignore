@@ -1,0 +1,41 @@
+# Datos personales de Instagram
+*.json
+*.html
+
+# Directorios de datos
+ads_information/
+apps_and_websites_off_of_instagram/
+connections/followers_and_following/
+logged_information/
+media/
+personal_information/
+preferences/
+security_and_login_information/
+your_instagram_activity/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Otros
+.env
+*.backup
+*.old
